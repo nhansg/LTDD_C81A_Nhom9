@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Share"
+        android:icon="@drawable/share"
+        android:id="@+id/bottom_share"
+        />
+    <item
+        android:title="Download"
+        android:icon="@drawable/download"
+        android:id="@+id/bottom_down"
+        />
+</menu>

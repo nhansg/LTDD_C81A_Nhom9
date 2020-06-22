@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_tusach"
+        android:icon="@drawable/book"
+        android:title="Tủ sách" />
+    <item
+        android:id="@+id/navigation_thuvien"
+        android:icon="@drawable/folder"
+        android:title="Thư viện" />
+    <item
+        android:id="@+id/navigation_taikhoan"
+        android:icon="@drawable/user"
+        android:title="Tài khoản" />
+</menu>
